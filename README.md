@@ -2,7 +2,7 @@
 Backup a Directory Every X Minutes
 
 
-Just run it. 
+### Just run it. 
 
 
 Prints an input for the source directory, destination directory, and how many minutes between each backup.
