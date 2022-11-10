@@ -2,7 +2,7 @@
 Backup a Directory Every X Minutes
 
 
-### Just run it. 
+## Just run it. 
 
 ```bash
 git clone https://github.com/seth56/dirbackup
@@ -13,6 +13,6 @@ Prints an input for the source directory, destination directory, and how many mi
 Sves each backup with the current date.time
 
 
-### Created by: Seth Burr
+#### Created by: Seth Burr
 - Instagram: sethtburr
 - Phone: 774-766-7740
