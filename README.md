@@ -10,8 +10,7 @@ python3 dirbackup.py
 ```
 
 Prints an input for the source directory, destination directory, and how many minutes between each backup.
-
-Saves each backup with the current date.time
+Sves each backup with the current date.time
 
 
 ### Created by: Seth Burr
