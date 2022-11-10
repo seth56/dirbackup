@@ -4,18 +4,12 @@ import time
 import os
 
 colors = "\u001b["
-red = colors + "31m"
 reset = colors + "0m"
-green = colors + "32m"
 cyan = colors + "36m"
-blue = colors + "34m"
-yellow = colors + "33m"
 magenta = colors + "35m"
-black = colors + "30m"
 bg_cyan = colors + "46m"
 bg_magenta = colors + "45m"
 bold = colors + "1m"
-underline = colors + "4m"
 
 print("\n" + bg_cyan + magenta + "*****************************************")
 print(bold + black +             "          WELCOME TO BACKUP.PY!          ")
