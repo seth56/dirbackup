@@ -1,4 +1,4 @@
-# DIRBACKUP.PY
+# DIRBACKUP
 Backup a Directory Every X Minutes
 
 
