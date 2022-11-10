@@ -14,6 +14,6 @@ Prints an input for the source directory, destination directory, and how many mi
 Saves each backup with the current date.time
 
 
-Created by: Seth Burr
-- Instagram: sethtburr
-- Phone: 774-766-7740
+- Created by: Seth Burr
+  - Instagram: sethtburr
+  - Phone: 774-766-7740
